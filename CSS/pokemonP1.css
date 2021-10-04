@@ -1,0 +1,71 @@
+@font-face{
+    font-family: MaFont;
+    src: url(../fonts/Pokemon\ Hollow.ttf);
+    
+}
+
+@font-face{
+      font-family: Tafont;
+      src: url(../fonts/MemphisFree.otf);
+  }
+
+@font-face{
+    font-family: Lafont;
+    src: url(../fonts/Night\ Trippers.otf);
+}  
+@font-face{
+    font-family: Rafont;
+    src: url(../fonts/Lobster-Regular.ttf);
+}
+body{
+    background-image: url(../srcHtmlCss/wallpaperPokemon.jpg);
+    background-attachment: fixed;
+}
+h1{
+   font-family: Mafont;
+   color: rgb(45, 167, 207);
+   text-align: center;
+   text-shadow:  deeppink 3px 5px 5px ;
+   font-size: 10em;
+
+}
+h2{
+    font-family: Rafont;
+    color: aqua;
+    text-shadow:  deeppink 3px 5px 5px ; 
+    text-align: center;
+    font-size: 3em;
+}
+p{
+    font-family: Lafont;
+    color: aqua;
+    text-align: center;
+    font-size: 40px;
+}
+a{
+   font-family: Lafont;
+   font-size: 30px;
+    color: aqua;
+    text-shadow:  deeppink 3px 3px 3px ; 
+    
+}
+
+.evoli{
+    border-radius: 20px;
+    box-shadow:  deeppink 3px 5px 5px ; 
+   
+   
+}
+.pika{
+    border-radius: 20px;
+    box-shadow:  deeppink 3px 5px 5px ;  
+}
+.miaous{
+    border-radius: 20px;
+    box-shadow:  deeppink 3px 5px 5px ;  
+}
+
+
+
+
+
